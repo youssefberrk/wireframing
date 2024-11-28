@@ -39,5 +39,30 @@ The **layout structure** defines the arrangement and organization of key element
 
 **Example**: A wireframe might show a "Submit" button in a contact form, indicating that when clicked, the form data will be sent to a backend server. This helps ensure that the functionality aligns with the overall design and user goals.
 
+## Types of Wireframes
+
+### Low-Fidelity Wireframes
+Low-fidelity wireframes are basic, often hand-drawn or created using simple digital tools. They focus on layout, structure, and functionality rather than fine details. They are typically used early in the design process to quickly sketch out ideas and receive feedback on the user flow.
+
+**When to Use**:  
+- Early stages of the project
+- Brainstorming and idea generation
+- Getting quick feedback from stakeholders
+
+### High-Fidelity Wireframes
+High-fidelity wireframes are more detailed and polished, often resembling the final product's layout with specific design elements such as fonts, colors, and images (though they may not be fully designed yet). They show more realistic interaction and are used to test usability and refine features before development.
+
+**When to Use**:  
+- Later stages of the design process
+- For detailed user interface testing
+- When a clearer sense of the final look and feel is needed
+
+## Example of a Wireframe Type
+I believe this is a High-Fidelity wireframe,The key reasons why this is a High-Fidelity wireframe:
+
+- The level of detail and completeness of the screens - Each screen shows a very polished, pixel-perfect layout with all the UI elements in place. This goes beyond the more rough, conceptual nature of mid-fidelity wireframes.
+- The inclusion of actual content and branding elements - The screens display real app UI components like the header, navigation, and image thumbnails. This is characteristic of high-fidelity designs, not placeholder content.
+- The overall visual quality and polish - The wireframe has a very refined, near-final look and feel, without the grayscale or incomplete aesthetics of mid-fidelity wireframes.
+
 
 
